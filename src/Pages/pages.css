@@ -1,0 +1,21 @@
+ 
+.home-background{
+    background-image: url("../assets/images/hero-img.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.home-submit-btn button{
+    background-color: #81c408 !important;
+}
+
+.home-submit-btn button:hover{
+    background-color: #ffb524 !important;
+}
+
+.display-home-text{
+    font-size: calc(1.525rem + 3.3vw);
+    font-weight: 800;
+    line-height: 1.2;
+}

@@ -1,0 +1,21 @@
+.header-radius {
+  border-radius: 230px 100px;
+}
+
+.header-radius p {
+  margin-bottom: 0px;
+  color: #fff;
+}
+
+.header-hover-text p:hover {
+  color: #ffb524 !important;
+}
+
+.nav-link a:hover {
+  color: #81c408 !important;
+}
+
+.icons-size {
+  font-size: 2rem;
+}
+

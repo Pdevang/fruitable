@@ -1,0 +1,17 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+.color-green {
+  color: #81c408 !important;
+   
+}
+.background-green {
+background-color:  #81c408 !important;
+}
+
+.color-yellow {
+  color: #ffb524 !important;
+}
